@@ -75,7 +75,7 @@ Visit the [CONTRIBUTING.md](https://github.com/anjali1102/Hacktober2022/blob/mas
   </tr>
   <tr>
     <td><img src="Project Screenshots/tesla.png" width=270 height=480></td>
-    <td><img src="![Screenshot (9)](https://user-images.githubusercontent.com/87799260/194675989-c1b6a130-9a53-43d2-bef1-0d21512df2ad.png)" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/87799260/194675989-c1b6a130-9a53-43d2-bef1-0d21512df2ad.png" width=270 height=480></td>
     <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/simple-login-register-forgot_password.png" width=270 height=480></td>
   </tr>
 
