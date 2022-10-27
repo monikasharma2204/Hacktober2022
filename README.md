@@ -23,44 +23,88 @@ The same has been explained in detail along with the required CLI commands in th
 Visit the [CONTRIBUTING.md](https://github.com/anjali1102/Hacktober2022/blob/master/CONTRIBUTING.md)
 
 
-<table style="padding:10px">
+<table>
   <tr>
-    <td> 
-         <img src=""  alt="1" width = 279px height = 496px ></td>
-      
- <td><img src="" align="right" alt="2" width = 279px height = 496px></td>
-   <td><img src="" alt="3" width = 288px height = 512px></td>
-    
-   <!--<td><img src="" align="right" alt="4" width =  279px height = 496px></td>-->
+    <td>Fire Particle</td>
+     <td>Space Animation☄</td>
+     <td>Brick Breaker</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/Fire%20particle%20generator.png" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/space-animation.gif" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/brick%20breaker%20ss.png" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>CSS Animation Bus</td>
+     <td>Resume</td>
+     <td>Confetti Animation</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/css%20svg.png" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/resume-demo.png" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/confetti-animation.gif" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>Drawing Board</td>
+    <td>guess Game</td>
+    <td>Guess Number</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/team-editor-ss.png" width=270 height=480></td>
+    <td><img src="./HeartBeatAnimation/pic.gif" width=260 height=470></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/guess-game.png" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>Joke generator</td>
+    <td>Quote generator</td>
+    <td>REACT~PASSWORD~GENERATOR</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/joke-generator.png" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/quote-generator.png" width=270 height=470></td>   
+    <td><img src="Project Screenshots/random_pass.png" width=260 height=470></td>
+  </tr>
+
+  <tr>
+    <td>Tesla Clone</td>
+    <td>Simple Login-register</td>
+    <td>Wikipedia Viewer</td>
+  </tr>
+  <tr>
+    <td><img src="Project Screenshots/tesla.png" width=270 height=480></td>
+    <td><img src="![Screenshot (9)](https://user-images.githubusercontent.com/87799260/194675989-c1b6a130-9a53-43d2-bef1-0d21512df2ad.png)" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/simple-login-register-forgot_password.png" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>advice generator</td>
+    <td>Progress Steps</td>
+      <td>expense tracker</td>
   </tr>
    <tr>
-    <td> 
-         <img src=""  alt="1" width = 279px height = 496px ></td>
-      
- <td><img src="" align="right" alt="2" width = 279px height = 496px></td>
-   <td><img src="" alt="3" width = 288px height = 512px></td>
-    
-   <!--<td><img src="" align="right" alt="4" width =  279px height = 496px></td>-->
+   <td><img src="https://user-images.githubusercontent.com/24995094/195181365-c0869890-03c7-4d57-9617-2ffb9bacf9f4.png" width=270 height=480></td>
+    <td><img src="https://github.com/anjali1102/Hacktober2022/blob/master/Project%20Screenshots/wikipedia-viewer.png" width=270 height=470></td> 
+        <td><img src="https://github.com/ayushkedia05/react-expense-tracker/blob/a601d539b559e4ec9cc1e6a5f161d403be293d07/Screenshot%20from%202022-10-09%2011-08-15.png" width=260 height=470></td>  
+  </tr>
+  
+
+
+  <tr>
+    <td>Starbucks Landing Page</td>
+    <td>Random color Generator</td>
+    <td>Coffee Shop</td>
   </tr>
    <tr>
-    <td> 
-         <img src=""  alt="1" width = 279px height = 496px ></td>
-      
- <td><img src="" align="right" alt="2" width = 279px height = 496px></td>
-   <td><img src="" alt="3" width = 288px height = 512px></td>
-    
-   <!--<td><img src="" align="right" alt="4" width =  279px height = 496px></td>-->
-  </tr>
-   <tr>
-    <td> 
-         <img src=""  alt="1" width = 279px height = 496px ></td>
-      
- <td><img src="" align="right" alt="2" width = 279px height = 496px></td>
-   <td><img src="" alt="3" width = 288px height = 512px></td>
-    
-   <!--<td><img src="" align="right" alt="4" width =  279px height = 496px></td>-->
-  </tr>
-</table>
+   <td><img src="https://raw.githubusercontent.com/dellucifer/Hacktober2022/master/Starbucks_Clone/img/screen_shot.png" width=270 height=480></td>  
+   <td> <img src="https://user-images.githubusercontent.com/84630728/197352709-0b4d0f93-15c5-4686-a81d-16e25478edfa.png" width=270 height=480> </td> 
+   <td><img src="CoffeeBean/src/imgs/preview.jpeg" width=270 height=480></td>
+   </tr>
+   
+
+ </table>
 
 
 
